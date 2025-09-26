@@ -1,5 +1,4 @@
 # Shop-site-JS
-# THIS IS SIMILAR TO E_COMMERCE_SITE WHICH I PROVIDED BUT THIS IS OF PASSING ONE PARAMETER WHERE OTHER ONE IS DOUBLE PARAMETER...
 
 # 🛒 Shop-Site (Mini E-Commerce Project)
 
@@ -9,6 +8,21 @@ This project demonstrates **multi-category navigation, sorting, brand filtering,
 Perfect for **learning core web development** and **showcasing on your resume/portfolio**.
 
 ---
+
+
+## 🎯 Why This Project?
+
+- Demonstrates **core front-end development** skills.  
+- Showcases ability to build a **functional web app without frameworks**.  
+- Great project to highlight in a **resume, portfolio, or GitHub**.  
+
+📌 **Note:**  
+This project (`Shop-Site`) is a **simpler version** compared to my other project `E-Commerce-Site`.  
+- Here: category navigation is handled by **passing a single parameter** (e.g., `?category=Fruits`).  
+- In the other project: navigation and filtering work with **double parameters** (e.g., `?category=Fruits&brand=Apple`).  
+
+
+ 
 
 ## 🚀 Features
 
